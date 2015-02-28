@@ -1,6 +1,6 @@
 # ngraph.matrix
 
-Module to transform ngraph.graph into matrix representation.
+Module to transform [ngraph.graph](https://github.com/anvaka/ngraph.graph) into matrix representation.
 
 Note: This library is not supposed to be used for large graphs. It is only
 a demo for those who are interested in how certain graph matrix looks like.
