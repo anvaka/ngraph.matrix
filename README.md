@@ -1,4 +1,4 @@
-# ngraph.matrix
+# ngraph.matrix [![Build Status](https://travis-ci.org/anvaka/ngraph.matrix.svg)](https://travis-ci.org/anvaka/ngraph.matrix)
 
 Module to transform [ngraph.graph](https://github.com/anvaka/ngraph.graph) into matrix representation.
 
