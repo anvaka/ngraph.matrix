@@ -14,7 +14,9 @@ function degree(graph, matrix) {
   return matrix;
 
   function addToMatrix(node) {
-    matrix.set(i, i, graph.getLinks(node.id).length);
+    const links = graph.getLinks(node.id)
+    const degree = Array.isArray(links) ? links.length :links.size; 
+    matrix.set(i, i, degree);
     i += 1;
   }
 }
