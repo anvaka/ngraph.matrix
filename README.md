@@ -1,4 +1,7 @@
-# ngraph.matrix [![Build Status](https://travis-ci.org/anvaka/ngraph.matrix.svg)](https://travis-ci.org/anvaka/ngraph.matrix)
+# ngraph.matrix
+
+
+[![build status](https://github.com/anvaka/ngraph.matrix/actions/workflows/tests.yaml/badge.svg)](https://github.com/anvaka/ngraph.matrix/actions/workflows/tests.yaml)
 
 Module to transform [ngraph.graph](https://github.com/anvaka/ngraph.graph) into matrix representation.
 
